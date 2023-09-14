@@ -1,2 +1,3 @@
 # mydemo
-This is my first git repo
+This is my first Git repository
+author :- Om Prakash
